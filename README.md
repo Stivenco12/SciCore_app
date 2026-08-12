@@ -68,5 +68,4 @@ To contribute:
 This project is licensed under the [MIT License](LICENSE).
 
 ---
-<!-- pushpen-footer -->
-Documentation automatically generated and kept up to date by [Pushpen](https://pushpen.dev).
+
